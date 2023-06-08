@@ -1,0 +1,51 @@
+C:\Users\Student\source\repos\SkibaLab3\bin\Debug\net6.0-windows\SkibaLab3.exe
+C:\Users\Student\source\repos\SkibaLab3\bin\Debug\net6.0-windows\SkibaLab3.deps.json
+C:\Users\Student\source\repos\SkibaLab3\bin\Debug\net6.0-windows\SkibaLab3.runtimeconfig.json
+C:\Users\Student\source\repos\SkibaLab3\bin\Debug\net6.0-windows\SkibaLab3.dll
+C:\Users\Student\source\repos\SkibaLab3\bin\Debug\net6.0-windows\SkibaLab3.pdb
+C:\Users\Student\source\repos\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.Form1.resources
+C:\Users\Student\source\repos\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.AssemblyInfo.cs
+C:\Users\Student\source\repos\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.dll
+C:\Users\Student\source\repos\SkibaLab3\obj\Debug\net6.0-windows\refint\SkibaLab3.dll
+C:\Users\Student\source\repos\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.pdb
+C:\Users\Student\source\repos\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.genruntimeconfig.cache
+C:\Users\Student\source\repos\SkibaLab3\obj\Debug\net6.0-windows\ref\SkibaLab3.dll
+F:\Скиба, ТП\lab3\SkibaLab3\bin\Debug\net6.0-windows\SkibaLab3.exe
+F:\Скиба, ТП\lab3\SkibaLab3\bin\Debug\net6.0-windows\SkibaLab3.deps.json
+F:\Скиба, ТП\lab3\SkibaLab3\bin\Debug\net6.0-windows\SkibaLab3.runtimeconfig.json
+F:\Скиба, ТП\lab3\SkibaLab3\bin\Debug\net6.0-windows\SkibaLab3.dll
+F:\Скиба, ТП\lab3\SkibaLab3\bin\Debug\net6.0-windows\SkibaLab3.pdb
+F:\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.csproj.AssemblyReference.cache
+F:\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.Form1.resources
+F:\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.csproj.GenerateResource.cache
+F:\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.AssemblyInfoInputs.cache
+F:\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.AssemblyInfo.cs
+F:\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.csproj.CoreCompileInputs.cache
+F:\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.dll
+F:\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\refint\SkibaLab3.dll
+F:\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.pdb
+F:\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.genruntimeconfig.cache
+F:\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\ref\SkibaLab3.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\bin\Debug\net6.0-windows\SkibaLab3.exe
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\bin\Debug\net6.0-windows\SkibaLab3.deps.json
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\bin\Debug\net6.0-windows\SkibaLab3.runtimeconfig.json
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\bin\Debug\net6.0-windows\SkibaLab3.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\bin\Debug\net6.0-windows\SkibaLab3.pdb
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.csproj.AssemblyReference.cache
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.csproj.GenerateResource.cache
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.AssemblyInfoInputs.cache
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.AssemblyInfo.cs
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.csproj.CoreCompileInputs.cache
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\refint\SkibaLab3.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.pdb
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.genruntimeconfig.cache
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\ref\SkibaLab3.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3\obj\Debug\net6.0-windows\SkibaLab3.FioTransformer.resources

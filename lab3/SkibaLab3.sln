@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkibaLab3", "SkibaLab3\SkibaLab3.csproj", "{957F491E-CE9F-4DC7-BCA1-39308500283D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkibaLab3Test", "SkibaLab3Test\SkibaLab3Test.csproj", "{21AF66C6-6B48-4755-BB4D-F14C40F8C4DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957F491E-CE9F-4DC7-BCA1-39308500283D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957F491E-CE9F-4DC7-BCA1-39308500283D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957F491E-CE9F-4DC7-BCA1-39308500283D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957F491E-CE9F-4DC7-BCA1-39308500283D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21AF66C6-6B48-4755-BB4D-F14C40F8C4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AF66C6-6B48-4755-BB4D-F14C40F8C4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AF66C6-6B48-4755-BB4D-F14C40F8C4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AF66C6-6B48-4755-BB4D-F14C40F8C4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A436B8E-4EC7-493A-948B-BAB2557B3AF1}
+	EndGlobalSection
+EndGlobal

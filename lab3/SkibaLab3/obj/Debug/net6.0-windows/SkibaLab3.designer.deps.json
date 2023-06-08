@@ -1,0 +1,21 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "doxygen-1.9.6.windows.x64/1.9.6": {}
+    }
+  },
+  "libraries": {
+    "doxygen-1.9.6.windows.x64/1.9.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W3E1mvZbN83wb3RV+vbSwvjGqDbqUkEiZLvT0ZjOwqIx31ECJgd5TqwWPE23+Q2DbNuP3IuNvCn8cRPinmdR8Q==",
+      "path": "doxygen-1.9.6.windows.x64/1.9.6",
+      "hashPath": "doxygen-1.9.6.windows.x64.1.9.6.nupkg.sha512"
+    }
+  }
+}

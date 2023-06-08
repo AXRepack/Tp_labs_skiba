@@ -1,0 +1,326 @@
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\CoverletSourceRootsMapping
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\testhost.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3.deps.json
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3.runtimeconfig.json
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3.exe
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\testhost.exe
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\NUnit3.TestAdapter.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\NUnit3.TestAdapter.pdb
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\nunit.engine.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\nunit.engine.api.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\nunit.engine.core.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\testcentric.engine.metadata.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.deps.json
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.runtimeconfig.json
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.pdb
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Newtonsoft.Json.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\NuGet.Frameworks.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\nunit.framework.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3.dll
+C:\Users\Student\source\repos\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3.pdb
+C:\Users\Student\source\repos\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.AssemblyInfo.cs
+C:\Users\Student\source\repos\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.csproj.CopyComplete
+C:\Users\Student\source\repos\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.dll
+C:\Users\Student\source\repos\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\refint\SkibaLab3Test.dll
+C:\Users\Student\source\repos\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.pdb
+C:\Users\Student\source\repos\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.genruntimeconfig.cache
+C:\Users\Student\source\repos\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\ref\SkibaLab3Test.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\CoverletSourceRootsMapping
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\testhost.exe
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\testhost.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\NUnit3.TestAdapter.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\NUnit3.TestAdapter.pdb
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\nunit.engine.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\nunit.engine.api.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\nunit.engine.core.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\testcentric.engine.metadata.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3.deps.json
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3.runtimeconfig.json
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3.exe
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.deps.json
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.runtimeconfig.json
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.pdb
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.TestPlatform.Utilities.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Newtonsoft.Json.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\NuGet.Frameworks.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\nunit.framework.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\WinRT.Runtime.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3.pdb
+F:\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.csproj.AssemblyReference.cache
+F:\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.AssemblyInfoInputs.cache
+F:\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.AssemblyInfo.cs
+F:\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.csproj.CoreCompileInputs.cache
+F:\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.csproj.CopyComplete
+F:\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\refint\SkibaLab3Test.dll
+F:\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.pdb
+F:\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.genruntimeconfig.cache
+F:\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\ref\SkibaLab3Test.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\CoverletSourceRootsMapping
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\testhost.exe
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\testhost.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\NUnit3.TestAdapter.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\NUnit3.TestAdapter.pdb
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\nunit.engine.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\nunit.engine.api.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\nunit.engine.core.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\testcentric.engine.metadata.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3.deps.json
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3.runtimeconfig.json
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3.exe
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.deps.json
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.runtimeconfig.json
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.pdb
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Newtonsoft.Json.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\NuGet.Frameworks.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\nunit.framework.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\SkibaLab3.pdb
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.csproj.AssemblyReference.cache
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.AssemblyInfoInputs.cache
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.AssemblyInfo.cs
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.csproj.CoreCompileInputs.cache
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.csproj.CopyComplete
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\refint\SkibaLab3Test.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.pdb
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\SkibaLab3Test.genruntimeconfig.cache
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\obj\Debug\net6.0-windows10.0.22621.0\ref\SkibaLab3Test.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\FlaUI.Core.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\FlaUI.UIA3.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\Interop.UIAutomationClient.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\System.Management.dll
+C:\Users\AXRep\OneDrive\Документы\TP\Скиба, ТП\lab3\SkibaLab3Test\bin\Debug\net6.0-windows10.0.22621.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll

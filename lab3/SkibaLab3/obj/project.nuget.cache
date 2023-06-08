@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VYk/Ewev6t7fUaLIeSE2OtNB3mU1b4H9jl2HmqKXYdsJPFE3pd9y2+iWbvjS3hxQgu9VUNZmRGlEl7Dl+64jKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AXRep\\OneDrive\\Документы\\TP\\Скиба, ТП\\lab3\\SkibaLab3\\SkibaLab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AXRep\\.nuget\\packages\\doxygen-1.9.6.windows.x64\\1.9.6\\doxygen-1.9.6.windows.x64.1.9.6.nupkg.sha512"
+  ],
+  "logs": []
+}

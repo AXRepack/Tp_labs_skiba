@@ -1,0 +1,58 @@
+T_001_DevideFIO_BaseFlow
+Название: Строка ФИО успешно создаётся
+Из буфера обмена успешно скопировались три входные непустные строки
+Входные данные: surname = "Skeeba"
+				name = "Alexander"
+				patronimyc = "Eduardovich"
+Ожидаемый результат: "Skeeba Alexander Eduardovich", без исключений
+
+
+
+T_002_DevideFIO_EmptySurname
+Название: Поле фамилии пришло пустым
+Из буфера обмена успешно скопировались две последние входные непустные строки
+Входные данные: surname = null
+				name = "Alexander"
+				patronimyc = "Eduardovich"
+Ожидаемый результат: SurnameIsEmptyException
+
+T_003_DevideFIO_EmptyName
+Название: Поле имени пришло пустым
+Из буфера обмена успешно скопировались первая и последняя входные непустные строки
+Входные данные: surname = "Skeeba"
+				name = null
+				patronimyc = "Eduardovich"
+Ожидаемый результат: NameIsEmptyException
+
+T_004_DevideFIO_EmptyPatronimyc
+Название: Поле отчества пришло пустым
+Из буфера обмена успешно скопировались первая и вторая входные непустные строки
+Входные данные: surname = "Skeeba"
+				name = "Alexander"
+				patronimyc = null
+Ожидаемый результат: "Skeeba Alexander", без исключений
+
+T_005_DevideFIO_ForbiddenSymbols
+Название: Поле отчества пришло пустым
+Из буфера обмена успешно скопировались первая и вторая входные непустные строки
+Входные данные: surname = "Skeeba!"
+				name = "Alexander"
+				patronimyc = "Eduardovich"
+Ожидаемый результат: ForbiddenSymbolsException
+
+T_006_DevideFIO_EmptyInput
+Название: Все поля пришли пустыми
+Из буфера обмена пришла пустая строка
+Входные данные: surname = ""
+				name = ""
+				patronimyc = ""
+Ожидаемый результат: EmptyInputException
+
+T_007_BufferEmpty
+Название: Буфер обмена пустой
+Ожидаемый результат: Exception
+
+T_008_SuceesInBuffer
+Название: 
+
+
